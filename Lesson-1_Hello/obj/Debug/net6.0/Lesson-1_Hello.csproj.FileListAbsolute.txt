@@ -1,0 +1,15 @@
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/bin/Debug/net6.0/Lesson-1_Hello
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/bin/Debug/net6.0/Lesson-1_Hello.deps.json
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/bin/Debug/net6.0/Lesson-1_Hello.runtimeconfig.json
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/bin/Debug/net6.0/Lesson-1_Hello.dll
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/bin/Debug/net6.0/Lesson-1_Hello.pdb
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/obj/Debug/net6.0/Lesson-1_Hello.csproj.AssemblyReference.cache
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/obj/Debug/net6.0/Lesson-1_Hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/obj/Debug/net6.0/Lesson-1_Hello.AssemblyInfoInputs.cache
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/obj/Debug/net6.0/Lesson-1_Hello.AssemblyInfo.cs
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/obj/Debug/net6.0/Lesson-1_Hello.csproj.CoreCompileInputs.cache
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/obj/Debug/net6.0/Lesson-1_Hello.dll
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/obj/Debug/net6.0/refint/Lesson-1_Hello.dll
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/obj/Debug/net6.0/Lesson-1_Hello.pdb
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/obj/Debug/net6.0/Lesson-1_Hello.genruntimeconfig.cache
+/home/mstr/Документы/Курсы/CS_Lessons/Lesson-1_Hello/obj/Debug/net6.0/ref/Lesson-1_Hello.dll
